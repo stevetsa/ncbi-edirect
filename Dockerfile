@@ -1,3 +1,2 @@
-FROM ncbi/edirect:latest
-
-#RUN sudo apt-get update && apt-get install -y python3
+FROM continuumio/miniconda3
+RUN conda install bioconda::entrez-direct
