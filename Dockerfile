@@ -1,0 +1,1 @@
+FROM ncbi/edirect:latest
