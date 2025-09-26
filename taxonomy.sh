@@ -2,7 +2,7 @@
 #EDirect script
 while read org
   do
-    esearch -db taxonomy -query "$org [LNGE] AND family [RANK]" < /dev/ null |
+    esearch -db taxonomy -query "$org [LNGE] AND family [RANK]" < /dev/null |
     efetch -format docsum |
     xtract -pattern DocumentSummary -lbl "$org" -element ScientificName Division
 done
