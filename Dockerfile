@@ -5,5 +5,5 @@ FROM ubuntu:22.04
 
 RUN apt update -y && \
     apt upgrade -y && \
-    apt install -y build-essential curl git && \
+    apt install -y build-essential curl git python3 && \
     rm -rf /var/lib/apt/lists/*
