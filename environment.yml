@@ -1,0 +1,6 @@
+name: binder-edirect
+channels:
+  - conda-forge
+dependencies:
+  - python3
+  - edirect
