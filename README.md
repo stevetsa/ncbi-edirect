@@ -1,7 +1,8 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stevetsa/ncbi-edirect/HEAD)
 
 ## Instructions
-(No installation required - MyBinder provides an environment with pre-installed tools) 
+(No installation required - MyBinder provides an environment with pre-installed tools)
+
 Click on the Binder link above
 Double click on the Jupyter Notebook "edirect_example.ipynb" file
 
