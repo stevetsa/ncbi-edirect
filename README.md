@@ -3,7 +3,7 @@
 ## Instructions
 (No installation required - MyBinder provides an environment with pre-installed tools)
 
-- Click on the Binder link above
+- Click on the LaunchBinder link above
 - Double click on the Jupyter Notebook "edirect_example.ipynb" file
 - In the Notebook, run each cell and examine the output.
 - You can experiment with modifying the commands in each cell.
