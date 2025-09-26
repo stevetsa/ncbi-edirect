@@ -1,7 +1,5 @@
 name: binder-edirect
 channels:
   - conda-forge
-  - bioconda
 dependencies:
   - python
-  - edirect
